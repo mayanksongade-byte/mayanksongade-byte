@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Mayank 👋
 
-<!--
-**mayanksongade-byte/mayanksongade-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Mobile App Development
 
-Here are some ideas to get you started:
+I'm a BCA student and an early-career Flutter developer focused on building practical mobile applications with clean UI and real-world functionality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+* **Mobile:** Flutter, Dart
+* **Backend & Database:** Firebase, Cloud Firestore
+* **State Management:** Provider
+* **APIs:** REST APIs, JSON
+* **Tools:** Git, GitHub
+
+### 🚀 Featured Projects
+
+#### 💰 MoneyMap
+
+Personal finance and expense tracking mobile app built with Flutter.
+
+* Firebase Authentication & Google Sign-In
+* Cloud Firestore
+* Income & expense management
+* Categories and budgets
+* Analytics and spending insights
+* Modern fintech-inspired UI
+
+#### 📝 VibeNote
+
+Smart notes and productivity app built with Flutter.
+
+* Voice-to-note
+* Reminders and notifications
+* Favourite and pinned notes
+* Image notes
+* Archive
+* Locked notes
+* PIN & fingerprint app lock
+* Dark/light theme
+* Local storage
+
+#### 💱 Currency Converter
+
+Flutter application that integrates a REST API to fetch currency exchange rates.
+
+* REST API integration
+* JSON data handling
+* Asynchronous programming
+* Responsive UI
+
+### 📌 Currently
+
+Working on **MoneyMap** and improving my Flutter development skills by building practical mobile applications.
+
+### 📫 Connect With Me
+
+* LinkedIn: [Mayank Songade](linkedin.com/in/mayank-songade)
+* GitHub: [mayanksongade-byte](https://github.com/mayanksongade-byte)
