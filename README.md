@@ -48,11 +48,16 @@ Flutter application that integrates a REST API to fetch currency exchange rates.
 * Asynchronous programming
 * Responsive UI
 
+### 🌐 Portfolio
+
+[View My Portfolio](https://mayanksongade.lovable.app/)
+
 ### 📌 Currently
 
 Working on **MoneyMap** and improving my Flutter development skills by building practical mobile applications.
 
 ### 📫 Connect With Me
 
-* LinkedIn: [Mayank Songade](linkedin.com/in/mayank-songade)
+* LinkedIn: [Mayank Songade](https://www.linkedin.com/in/mayank-songade-6599b9360/)
 * GitHub: [mayanksongade-byte](https://github.com/mayanksongade-byte)
+* Portfolio: [mayanksongade.lovable.app](https://mayanksongade.lovable.app/)
